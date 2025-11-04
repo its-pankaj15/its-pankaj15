@@ -25,7 +25,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since: 2021 (and fixing most of them 😅)<br>📚 Currently learning: React.js, Node.js, and modern web development practices<br>🎯 Goals: To become a proficient full-stack developer and contribute to impactful open-source projects<br>🎲 Fun fact: I spend more time debugging than coding — and I love it!</h4>
+<h4 align="left">📚 Currently learning: React.js, Node.js, and modern web development practices<br>🎯 Goals: To become a proficient full-stack developer and contribute to impactful open-source projects<br>🎲 Fun fact: I spend more time debugging than coding — and I love it!</h4>
 
 ###
 
